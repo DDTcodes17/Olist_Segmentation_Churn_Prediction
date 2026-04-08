@@ -1,0 +1,2 @@
+<h2>OLIST Customer Segmentation and Churn Prediction</h2>
+Python 3.11.5 chosen preferably for virtual environment over 3.14, since the latter has slower Data Science ecosystem with various conflicting Dependency issues with ML Libraries
